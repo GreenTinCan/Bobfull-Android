@@ -1,4 +1,6 @@
-# 초록 깡통 팀
+## 팀 초록 깡통
+
+### 안드로이드 모바일 저장소
 
 초록깡통 팀의 서비스 밥풀 안드로이드 저장소 입니다.
 
@@ -10,7 +12,7 @@
 
 ### 안드로이드 실행 방법
 
-- apk 파일 주소 :
+- apk 다운로드 가능 주소 : https://drive.google.com/drive/folders/1Odd3IrtiaQ9FXP6V6OjzI5uO7JyzUkkz
 
 ### 프로젝트 주제 및 기획의도
 
